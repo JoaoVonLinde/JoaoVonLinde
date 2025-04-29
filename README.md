@@ -48,7 +48,7 @@ Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia apaixonado por apr
   </a>
 </div>
 
-<div align="center" style="margin-top: 2rem;">
+<div align="center" style="margin-top: 5rem;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
