@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [João Von Linde]!
+# 👋 Olá, eu sou João Von Linde!
 
 Seja bem-vindo ao meu perfil! Sou um entusiasta de tecnologia apaixonado por aprender, explorar e construir soluções inovadoras.
 
