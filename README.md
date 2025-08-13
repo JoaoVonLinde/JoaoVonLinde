@@ -2,6 +2,8 @@
 
 Bem-vindo ao meu universo de código! Sou apaixonado por criar soluções **inovadoras**, **escaláveis** e **centradas no usuário**, combinando desenvolvimento full-stack com análise de dados e inteligência artificial.
 
+- **🌐 Minha Página:** [Acessar Site](https://joaovonlinde.github.io/My-Carrer/)  
+
 ## 🚀 Sobre Mim
 
 - 🔭 Especialista em **Node.js/Express** para backends performáticos e seguros
