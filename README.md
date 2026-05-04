@@ -129,19 +129,27 @@ AI-powered system that generates legal documents automatically.
 
 # 📊 GitHub Stats
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoVonLinde&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVonLinde&layout=compact&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoVonLinde&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVonLinde&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 📫 Contact
 
 <p align="center">
-  <a href="mailto:joaovonlinde@gmail.com">Email</a> •
-  <a href="https://github.com/JoaoVonLinde">GitHub</a> •
-  <a href="https://joaovonlinde-dev.vercel.app">Portfolio</a>
+  <a href="mailto:joaovonlinde@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/JoaoVonLinde">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://joaovonlinde-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
