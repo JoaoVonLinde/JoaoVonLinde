@@ -132,7 +132,6 @@ Sistema que usa IA para automatizar a criação de documentos jurídicos, reduzi
 Confira o código real nos meus repositórios:
 
 - 🔗 [JoaoVonLinde/JoaoVonLinde](https://github.com/JoaoVonLinde/JoaoVonLinde) — este perfil
-- 🔗 [PrintColorGraphics](https://github.com/JoaoVonLinde/PrintColorGraphics) — apresentação do e-commerce PrintColor
 - 🔗 [zentrix_landing](https://github.com/JoaoVonLinde/zentrix_landing) — landing page em TypeScript
 - 🔗 [noxtattoo](https://github.com/JoaoVonLinde/noxtattoo) — projeto em TypeScript
 - 🔗 [joaovonlinde.dev](https://github.com/JoaoVonLinde/joaovonlinde.dev) — código do meu portfólio
